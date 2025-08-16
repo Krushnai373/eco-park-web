@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+/* Navbar styling */
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #4CAF50; /* default color */
+  padding: 15px;
+  transition: background-color 0.3s ease;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 20px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.navbar a.active {
+  border-bottom: 3px solid yellow;
+}
+
+/* Page sections */
+section {
+  height: 100vh;
+  padding: 40px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
