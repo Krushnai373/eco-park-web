@@ -1,9 +1,5 @@
 # 🌿 Recreation Garden Website  
-```bash
-git add README.md
-git commit -m "Add README.md"
-git push
-```Features  
+## Features  
 - 🟢 Responsive *navigation bar* that changes background color when scrolling  
 - 🖼 Multiple *images displayed side-by-side* in the Specifications section  
 - 🎨 Clean and modern UI with hover effects and shadows  
